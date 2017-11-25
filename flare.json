@@ -56,12 +56,9 @@
      ]
     },
     {
-     "name": "Maths 3",
+     "name": "Anglais 2",
      "children": [
-      {"name": "Maths 2",
-       "children":[
-         {"name": "Maths 1"}
-       ]
+      {"name": "Anglais 1"
       }
      ]
     }
