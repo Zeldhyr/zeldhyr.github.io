@@ -1,0 +1,73 @@
+{
+"name": "Metiers",
+"children":[
+{
+   "name": "Professeur de Maths",
+   "children": [
+    {
+      "name": "Pedagogie",
+      "children": [
+      {"name": "Communication 2",
+        "children": [
+          {"name": "Communication 1"}
+        ]
+      },
+      {"name": "Relationnel 2",
+        "children": [
+          {"name": "Relationnel 1"}
+        ]
+        }
+     ]
+    },
+    {
+     "name": "Maths 3",
+     "children": [
+      {"name": "Maths 2",
+       "children":[
+         {"name": "Maths 1"}
+       ]
+      }
+     ]
+    }
+  ]
+},
+
+
+{
+   "name": "Developpeur",
+   "children": [
+    {
+      "name": "Langage informatique",
+      "children": [
+      {"name": "Utiliser un ordinateur 2",
+        "children": [
+          {"name": "Utiliser un ordinateur 1"}
+        ]
+      },
+      {"name": "Algo 1",
+        "children": [
+          {"name": "Logique 2",
+            "children":[
+              {"name": "Logique 1"}
+            ]
+          }
+        ]
+        }
+     ]
+    },
+    {
+     "name": "Maths 3",
+     "children": [
+      {"name": "Maths 2",
+       "children":[
+         {"name": "Maths 1"}
+       ]
+      }
+     ]
+    }
+  ]
+}
+
+
+]
+}
